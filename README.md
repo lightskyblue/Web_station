@@ -16,7 +16,7 @@
 - 
 
 ## 4.网站地图
-
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE.png)
 
 
 # 二、图片的使用
@@ -49,51 +49,87 @@
 - [Gravity中大南方文传影视工作室](likevelvet.me)
 ## 1. 网站安全
 - 使用了Wordfence。目前防火墙状态是64%，比一开始提升了14%。我开启了所有默认规则和账户强力保护，防止有人恶意猜测密码强制登录后台。
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/wordfence1.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/wordfence2.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/wordfence3.png)
+
 ## 2.网站性能
 - 使用了site24x7。总共有13个监视器运转正常，其中添加了上海、北京、杭州、青岛、深圳、张家口、广州、成都八个地点。根据报表，可以看出八个地点响应时间前期是从快到慢较均匀的分布，到后期呈现两极分化的趋势（成都是个特例没有很大的变化），且发现网站有出现请求超时的情况，查询资料后我认为是网络不稳定或者是部分地区电信信号不稳定导致的。
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/site24x7%201.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/site24x7%202.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/site24x7%203.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/site24x7%204.png)
+
 ## 3.网站备份
 使用了winSCP、BackWPup插件、wordpass后台导出三种方式备份网站。
 
-
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/winscp.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%9C%AC%E5%9C%B0%E5%A4%87%E4%BB%BD.png)
 
 # 四、站长工具
 ## 1.Bing站长工具
 我在5月28号通过了Bing站长认证，以下是我6月10号截的数据。
 
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/6%E6%9C%8810%E5%8F%B7.png)
+
 在bing搜索我的网站原全名（Gravity 来宇宙找我吧），出现在第一个搜索词，但是搜索文传影视工作室没有出现。后期我更改了关键词，也没有出现在搜索前列中。
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/6%E6%9C%8829%E5%8F%B7.png)
 
 ## 2.Google站长工具
 我在6月3号通过了谷歌站长认证，以下是我6月10号截的数据。
 
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Google%206%E6%9C%8810%E5%8F%B7.png)
+
 同样的在Google搜索我的网站原全名（Gravity 来宇宙找我吧）可以出现我的网站，位置在第三页，但是搜索文传影视工作室没有出现。
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/google%206%E6%9C%8829.png)
 
 ## 3.SEO优化
 在6月10日，我做了以下SEO优化。
+
 #### a.根据文章底部SEO分析给出的可读性分析建议，我修改了文章可读性使哭脸变成了笑脸。
+![图片]()
+![图片]()
+
 #### b.我更改了文章URLslug，使得URL变得更合理标准。
+![图片]()
+![图片]()
+
 #### c.添加了文章标签。
+![图片]()
+![图片]()
+
 #### d.所有图片添加Alt、title标签。
+![图片]()
+![图片]()
 
 以上四种操作在6月10号完成，根据Jaypak浏览量统计，原本没有任何浏览量的网站增加了几位浏览量，效果不够明显。
+![图片]()
 
 # 五、用户研究
 ## 1.用户研究方法
 ### a.焦点小组
 共采访了五位同学，分别是三位大三的网络与新媒体学生、一位大二的网络与新媒体学生和一位大四的护理系学生。
+
 问题：你在浏览了我的网站之后，针对我网站的风格和文章排版、结构，以及其中的字体大小有什么意见和看法？
 
 回答总结：
 1.文章排版、结构、字体大小方面：四位同学普遍认为我文章的字体大小过小，且每个模块的文章排版不统一，会让人有跳脱感。
 2.	首页方面：三位同学认为我的首页字体也过于小，不适合阅读，且一位同学提出抬头图片希望能换成没有背景的，会与背景更加适配，还有一位同学认为首页内容太少，希望再增加一点模块。
 
-
 根据用户研究，我对以上问题都做出了修改。
-
-
+![图片]()![图片]()
+![图片]()![图片]()
+![图片]()![图片]()
+![图片]()![图片]()
 
 # 六、定制化
 ## 1.安装了防复制插件，因为本网站是基于文传影视工作室公众号所建立的，要保障作品版权，所以安装了这个插件。
+![图片]()![图片]()
 ## 2.在用户研究中，有同学提出希望能更改首页两个超链接的大小，但是由于我的主题不能更改以及在这个页面使用的是site   ，不能直接修改字体，所以我通过额外的CSS添加了font-size属性，做到了用户希望字体变大的要求。
-
+![图片]()
 
 
