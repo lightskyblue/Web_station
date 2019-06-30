@@ -51,12 +51,12 @@
   配色主要为黑白蓝，蓝色是文传学院的系色，黑白是基于简约的想法。黑白给人一种神秘的设计感，而蓝色能够提升网站的活力，使得页面显得简单而又充满活力。
   
 - **平面设计应用**
-  - Animate it!
+  - **Animate it!**
   - 在**手绘作品集页面**添加了bounceIn特效，**摄影文章集每篇文章页的第一张图片**添加了zoomIn动效。
   
   ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%89%8B%E7%BB%98a.png) ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%86%B7%20a.png)
   
-  - SiteOrigin Page Builder
+  - **SiteOrigin Page Builder**
   - 在**首页、摄影文章集、约拍摄影师页面**都使用了SiteOrigin Page Builder编辑器。
   
   ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5site.png)
@@ -82,15 +82,18 @@
 
 ## 3.网站备份
   使用了winSCP、BackWPup插件、wordpass后台导出三种方式备份网站。
-- winSCP
+- **winSCP**
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/winscp.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/php.png)
 
-- BackWPup插件
+- **BackWPup插件**
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/sql.jpg)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/1561881986(1).png)
 
-- wordpass后台导出
+- **wordpass后台导出**
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%9C%AC%E5%9C%B0.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/1561882018(1).png)
 
@@ -117,6 +120,7 @@
 在**6月10日**，我做了以下SEO优化。
 
 #### a.根据文章底部SEO分析给出的可读性分析建议，我修改了文章可读性使哭脸变成了笑脸。
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%8F%AF%E8%AF%BB%E6%80%A7%E5%88%86%E6%9E%90.png)
 
 #### b.我更改了文章URLslug，使得URL变得更合理标准。
@@ -129,9 +133,11 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/URL%20slug.png)
 
 #### c.添加了文章标签。
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%A0%87%E7%AD%BE.png)
 
 #### d.所有图片添加Alt。
+
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt2.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt3.png)
@@ -162,7 +168,7 @@
 
 **更改后**
 
-![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E5%AD%97%E4%BD%93%E5%90%8E.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/11111.png)
 
 **首页模块增多**
  
@@ -188,6 +194,9 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E5%90%8E3.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BA%A6%E6%8B%8D%E5%90%8E.png)
 
+## 2.用户体验地图
+![图片]()
+
 # 六、定制化
 ## 1.防复制插件
 - 因为本网站是基于文传影视工作室公众号所建立的，要保障作品版权，所以安装了这个插件。
@@ -197,7 +206,7 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%A4%8D%E5%88%B6%E5%BC%80%E5%90%AF%E5%89%8D.png)
 
 **开启后**
- > 无法选中字体，也无法右键保存复制。
+- 无法选中字体，也无法右键保存复制。
  
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%A4%8D%E5%88%B6%E5%BC%80%E5%90%AF%E5%90%8E.png)
 
