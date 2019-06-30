@@ -91,23 +91,27 @@
 在6月10日，我做了以下SEO优化。
 
 #### a.根据文章底部SEO分析给出的可读性分析建议，我修改了文章可读性使哭脸变成了笑脸。
-![图片]()
-![图片]()
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%8F%AF%E8%AF%BB%E6%80%A7%E5%88%86%E6%9E%90.png)
 
 #### b.我更改了文章URLslug，使得URL变得更合理标准。
-![图片]()
-![图片]()
+更改前
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/URL%20slug1.png)
+
+更改后
+
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/URL%20slug.png)
 
 #### c.添加了文章标签。
-![图片]()
-![图片]()
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%A0%87%E7%AD%BE.png)
 
-#### d.所有图片添加Alt、title标签。
-![图片]()
-![图片]()
+#### d.所有图片添加Alt。
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt2.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt3.png)
 
 以上四种操作在6月10号完成，根据Jaypak浏览量统计，原本没有任何浏览量的网站增加了几位浏览量，效果不够明显。
-![图片]()
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/jaypak.png)
 
 # 五、用户研究
 ## 1.用户研究方法
@@ -118,18 +122,36 @@
 
 回答总结：
 1.文章排版、结构、字体大小方面：四位同学普遍认为我文章的字体大小过小，且每个模块的文章排版不统一，会让人有跳脱感。
-2.	首页方面：三位同学认为我的首页字体也过于小，不适合阅读，且一位同学提出抬头图片希望能换成没有背景的，会与背景更加适配，还有一位同学认为首页内容太少，希望再增加一点模块。
+2.首页方面：三位同学认为我的首页字体也过于小，不适合阅读，且一位同学提出抬头图片希望能换成没有背景的，会与背景更加适配，还有一位同学认为首页内容太少，希望再增加一点模块。
 
 根据用户研究，我对以上问题都做出了修改。
-![图片]()![图片]()
-![图片]()![图片]()
-![图片]()![图片]()
-![图片]()![图片]()
+
+ > 首页字体大小
+
+![图片]()
+![图片]()
+![图片]()
+![图片]()
+![图片]()
+![图片]()
+![图片]()
+![图片]()
 
 # 六、定制化
-## 1.安装了防复制插件，因为本网站是基于文传影视工作室公众号所建立的，要保障作品版权，所以安装了这个插件。
-![图片]()![图片]()
-## 2.在用户研究中，有同学提出希望能更改首页两个超链接的大小，但是由于我的主题不能更改以及在这个页面使用的是site   ，不能直接修改字体，所以我通过额外的CSS添加了font-size属性，做到了用户希望字体变大的要求。
+## 1.防复制插件
+- 因为本网站是基于文传影视工作室公众号所建立的，要保障作品版权，所以安装了这个插件。
+
+开启前
+
+![图片]()
+
+开启后
+
+![图片]()
+
+## 2.CSS代码修改
+- 在用户研究中，有同学提出希望能更改首页两个超链接的大小，但是由于我的主题不能更改以及在这个页面使用的是SiteOrigin Page Builder编辑器，不能直接修改字体大小，所以我通过额外的CSS添加了font-size属性，做到了用户希望字体变大的要求。
+
 ![图片]()
 
 
