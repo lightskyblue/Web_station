@@ -12,7 +12,14 @@
 - 20岁的小林平常喜欢到处浏览优秀的摄影、绘画作品，寻找美来藉慰自己，但网络多是外面的世界，他也想要有更贴近自己生活的作品欣赏。
 
 ## 3.网站规划：
-- 
+- 做到作品常更新，后期可以架设论坛形式供大家探讨。
+- 商业活动要有标准，质量不能参差不齐。
+- 根据用户调研，认为图片为本网站的重点，应当避免大面积文字出现，造成视觉上的不和谐。
+
+## 4.DVF模型：
+- 用户需求主要集中在欣赏作品、想要做模特和拍摄作品这三大方面
+- 网站想要做的长久，就需要集中在这三大块上。为此我们需要做到可供浏览的作品页面、进行约拍的商业页面、投稿页面。
+- 目前本网站拥有浏览作品页面、约拍摄影师页面，还缺少能够给用户提供投稿交流的页面，这个是我们需要改进的。
 
 ## 4.网站地图
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE.png)
@@ -30,7 +37,8 @@
 - [约拍摄影师](https://mp.weixin.qq.com/s/86SxrA39OKC_Ad3leVkBUQ)
 
 ## 2.图库风格与配色
-
+   因为是文传影视工作室为主题的网站，所以想要网站整体风格充满美感与设计感，所以使用了宇宙的宏大主题，选用了插画风的图片。
+   配色主要为黑白蓝，蓝色是文传学院的系色，黑白是基于简约的想法。黑白给人一种神秘的设计感，而蓝色能够提升网站的活力，使得页面显得简单而又充满活力。
 
 ## 3.三篇踩坑文章
 - [如何快速通过GitHub Education Pack 认证获得服务](http://likevelvet.me/2019/05/14/github-education-pack/)
@@ -39,9 +47,21 @@
 
 
 ## 4.平面设计
-- 
-- 
-
+- **网站配色**
+  配色主要为黑白蓝，蓝色是文传学院的系色，黑白是基于简约的想法。黑白给人一种神秘的设计感，而蓝色能够提升网站的活力，使得页面显得简单而又充满活力。
+  
+- **平面设计应用**
+  - Animate it!
+  在**手绘作品集页面**添加了bounceIn特效，**摄影文章集每篇文章页的第一张图片**添加了zoomIn动效。
+  
+  ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%89%8B%E7%BB%98a.png) ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%86%B7%20a.png)
+  
+  - SiteOrigin Page Builder
+  在**首页、摄影文章集、约拍摄影师页面**都使用了SiteOrigin Page Builder编辑器。
+  
+  ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5site.png)
+  ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%91%84%E5%BD%B1%E6%96%87%E7%AB%A0site.png)
+  ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%91%84%E5%BD%B1%E5%B8%88site.png)
 
 # 三、云端网站管理
 - [Gravity中大南方文传影视工作室](likevelvet.me)
