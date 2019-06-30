@@ -52,12 +52,12 @@
   
 - **平面设计应用**
   - Animate it!
-  在**手绘作品集页面**添加了bounceIn特效，**摄影文章集每篇文章页的第一张图片**添加了zoomIn动效。
+  - 在**手绘作品集页面**添加了bounceIn特效，**摄影文章集每篇文章页的第一张图片**添加了zoomIn动效。
   
   ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%89%8B%E7%BB%98a.png) ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%86%B7%20a.png)
   
   - SiteOrigin Page Builder
-  在**首页、摄影文章集、约拍摄影师页面**都使用了SiteOrigin Page Builder编辑器。
+  - 在**首页、摄影文章集、约拍摄影师页面**都使用了SiteOrigin Page Builder编辑器。
   
   ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5site.png)
   ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%91%84%E5%BD%B1%E6%96%87%E7%AB%A0site.png)
@@ -81,10 +81,18 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/site24x7%204.png)
 
 ## 3.网站备份
-使用了winSCP、BackWPup插件、wordpass后台导出三种方式备份网站。
-
+  使用了winSCP、BackWPup插件、wordpass后台导出三种方式备份网站。
+- winSCP
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/winscp.png)
-![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%9C%AC%E5%9C%B0%E5%A4%87%E4%BB%BD.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/php.png)
+
+- BackWPup插件
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/sql.jpg)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/1561881986(1).png)
+
+- wordpass后台导出
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%9C%AC%E5%9C%B0.png)
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/1561882018(1).png)
 
 # 四、站长工具
 ## 1.Bing站长工具
@@ -112,11 +120,11 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%8F%AF%E8%AF%BB%E6%80%A7%E5%88%86%E6%9E%90.png)
 
 #### b.我更改了文章URLslug，使得URL变得更合理标准。
-更改前
+**更改前**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/URL%20slug1.png)
 
-更改后
+**更改后**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/URL%20slug.png)
 
@@ -131,7 +139,7 @@
 以上四种操作在**6月10号**完成，根据Jaypak浏览量统计，原本没有任何浏览量的网站增加了几位浏览量，效果不够明显。
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/jaypak.png)
-**6月18号我添加了监视器，而后出现了一个浏览高峰。
+**6月18号我添加了监视器，而后出现了一个浏览高峰。**
 
 # 五、用户研究
 ## 1.用户研究方法
@@ -148,33 +156,33 @@
 
 **首页字体大小**
 
-更改前
+**更改前**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E5%AD%97%E4%BD%93%E5%89%8D.png)
 
-更改后
+**更改后**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E5%AD%97%E4%BD%93%E5%90%8E.png)
 
 **首页模块增多**
  
- 更改前
+ **更改前**
  
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97%E5%89%8D.png)
 
-更改后
+**更改后**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97%E5%90%8E.png)
 
 **文章字体**
 
-更改前
+**更改前**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E5%89%8D.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E5%89%8D4.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BA%A6%E6%8B%8D%E5%89%8D.png)
 
-更改后
+**更改后**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E5%90%8E1.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E5%90%8E3.png)
