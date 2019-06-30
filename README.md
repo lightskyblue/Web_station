@@ -195,7 +195,7 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BA%A6%E6%8B%8D%E5%90%8E.png)
 
 ## 2.用户体验地图
-![图片]()
+![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E7%BD%91%E7%AB%99%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E5%9C%B0%E5%9B%BE.png)
 
 # 六、定制化
 ## 1.防复制插件
