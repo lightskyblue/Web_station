@@ -68,7 +68,7 @@
 
 # 四、站长工具
 ## 1.Bing站长工具
-我在5月28号通过了Bing站长认证，以下是我6月10号截的数据。
+我在**5月28号**通过了Bing站长认证，以下是我**6月10号**截的数据。
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/6%E6%9C%8810%E5%8F%B7.png)
 
@@ -77,7 +77,7 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/6%E6%9C%8829%E5%8F%B7.png)
 
 ## 2.Google站长工具
-我在6月3号通过了谷歌站长认证，以下是我6月10号截的数据。
+我在**6月3号**通过了谷歌站长认证，以下是我**6月10号**截的数据。
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Google%206%E6%9C%8810%E5%8F%B7.png)
 
@@ -86,7 +86,7 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/google%206%E6%9C%8829.png)
 
 ## 3.SEO优化
-在6月10日，我做了以下SEO优化。
+在**6月10日**，我做了以下SEO优化。
 
 #### a.根据文章底部SEO分析给出的可读性分析建议，我修改了文章可读性使哭脸变成了笑脸。
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%8F%AF%E8%AF%BB%E6%80%A7%E5%88%86%E6%9E%90.png)
@@ -108,9 +108,10 @@
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt2.png)
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/Alt3.png)
 
-以上四种操作在6月10号完成，根据Jaypak浏览量统计，原本没有任何浏览量的网站增加了几位浏览量，效果不够明显。
+以上四种操作在**6月10号**完成，根据Jaypak浏览量统计，原本没有任何浏览量的网站增加了几位浏览量，效果不够明显。
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/jaypak.png)
+**6月18号我添加了监视器，而后出现了一个浏览高峰。
 
 # 五、用户研究
 ## 1.用户研究方法
@@ -125,7 +126,7 @@
 
 根据用户研究，我对以上问题都做出了修改。
 
- > 首页字体大小
+**首页字体大小**
 
 更改前
 
@@ -135,7 +136,7 @@
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E5%AD%97%E4%BD%93%E5%90%8E.png)
 
- > 首页模块增多
+**首页模块增多**
  
  更改前
  
@@ -145,7 +146,7 @@
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97%E5%90%8E.png)
 
- > 文章字体
+**文章字体**
 
 更改前
 
@@ -163,11 +164,11 @@
 ## 1.防复制插件
 - 因为本网站是基于文传影视工作室公众号所建立的，要保障作品版权，所以安装了这个插件。
 
-开启前
+**开启前**
 
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%A4%8D%E5%88%B6%E5%BC%80%E5%90%AF%E5%89%8D.png)
 
-开启后
+**开启后**
  > 无法选中字体，也无法右键保存复制。
  
 ![图片](https://github.com/lightskyblue/Web_station/blob/master/image/%E5%A4%8D%E5%88%B6%E5%BC%80%E5%90%AF%E5%90%8E.png)
